@@ -1,0 +1,13 @@
+.product {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.product-item {
+    margin: 10px;
+}
+.center {
+    text-align: center;
+    margin:30px 0;
+}
